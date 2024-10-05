@@ -26,6 +26,8 @@ main {
     box-sizing: border-box;
     padding: 27px 106px;
     color: white;
+
+    display: flex;
     width: 90vw;
     min-width: 289px;
     margin-inline: 5vw;
